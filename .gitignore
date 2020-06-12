@@ -16,6 +16,7 @@ _share
 fig
 
 # Jekyll {{{1
+Gemfile.lock
 _site/
 .sass-cache/
 .jekyll-cache/
