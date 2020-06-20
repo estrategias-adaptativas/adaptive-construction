@@ -108,6 +108,8 @@ no local de pesquisa.
 Bibliografia
 ============
 
+::: {#refs}
+:::
 
 Competências e habilidades
 ==========================
