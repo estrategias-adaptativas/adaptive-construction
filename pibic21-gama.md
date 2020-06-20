@@ -161,5 +161,21 @@ CorelDRAW, Illustrator, Photoshop, Word, Excel e Power Point.
 Cronograma
 ==========
 
-Mês a mês
+- Atividade do mês 1, 2 e 3 – Agosto a Outubro/2020
+  - Fundamentação da pesquisa a partir da leitura dos materiais
+    bibliográficos referenciados e pós encontrados, e pesquisa e
+    armazenamento de materiais iconográficos.
+- Atividade do mês 4, 5, 6 e 7 – Novembro/2020 a Fevereiro/2021
+  - Levantamento de campo e coleta de dados de dimensões, sistema
+    construtivo, detalhes, patologias e estado de conservação, coleta de
+    documentações arquivísticas junto aos órgãos competentes à
+    preservação do patrimônio histórico e ordenamento fundiária da
+    região como o IPHAN e o INCRA, e desenvolvimento da representação
+    tridimensional digital da casa.
+- Atividade do mês 8, 9, 10 e 11 – Março a Junho/2021
+  - Desenvolvimento do inventário documental a partir da construção da
+    redação e inserção dos resultados da modelagem digital e materiais
+    iconográficos.
+- Atividade do mês 12 – Julho/2021
+  - Revisão, formatação e entrega da pesquisa.
 
