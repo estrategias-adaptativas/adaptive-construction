@@ -67,17 +67,58 @@ estudada com outras construções análogas e com o território rural.
 Viabilidade, recursos e metodologia
 ===================================
 
-Inserir a descrição da metodologia da pesquisa contendo os passos
-metodológicos necessários para a sua execução e para o alcance dos
-objetivos enunciados. Também devem ser descritos os recursos materiais
-(bibliografia, computadores, softwares, metodologias, equipamentos de
-laboratório, reagentes e outros materiais e equipamentos de pesquisa) e
-a infraestrutura (laboratórios, salas de pesquisa, salas de informática
-e outros espaços) disponíveis para a execução do plano de trabalho do
-aluno, de maneira a mostrar a viabilidade da execução da pesquisa.
+Esta pesquisa será desenvolvida em três etapas:
 
-Texto com 4000 caracteres.
+- Levantamento, coleta de dados e sistematização de plantas e de
+  materiais iconográficos de uma tipologia das tradições arquitetônicas
+  e urbanísticas luso-brasileiras consolidada no planalto Central.
+  Informações essas a serem representadas e analisadas em modelo HBIM
+  (modelagem histórica de informações de construção);
 
+- Estabelecimento de um marco metodológico para a historiografia da
+  arquitetura luso-brasileira no longo século XIX, capaz de dar conta
+  tanto da teorização erudita quanto das práticas vernáculas encontradas
+  na construção de estudo;
+
+- Análise da integração e relação espaciais, do sistema construtivo,
+  detalhes, patologias e estado de conservação, gerando representações
+  gráficas e material teórico da construção vernácula.
+
+O enfoque dominante neste plano de trabalho é, portanto, a análise das
+configurações construtivas e espaciais da Casa da Fazenda Gama. Para
+tanto, serve-se dos materiais teóricos e principalmente aspectos
+físicos, para o desenvolver do produto tridimensional digital e o do
+trabalho final, um inventario documental. Os dados coletados e
+analisados permitirão ainda o estudo que relacione a arqueologia das
+antigas casas rurais do Distrito Federal, indicando as semelhanças e
+diferenças entre os padrões de configurações construtivas e espaciais
+das edificações.
+
+Esta pesquisa utilizará como fonte a documentação arquitetônica a ser
+recolhida em arquivos e na bibliografia indicada à pesquisa, o
+levantamento da edificação, o desenvolvimento da representação
+tridimensional digital e os documentos arquivísticos de órgãos públicos
+como o IPHAN (Instituto do Patrimônio Histórico e Artístico Nacional), o
+INCRA (Instituto Nacional de Colonização e Reforma Agrária), entre
+outros. 
+
+Os recursos a serem utilizados que viabilizam a execução da pesquisa
+partem da bibliografia adicionada, do uso de computador, internet,
+softwares da plataforma BIM e de arquitetura (Revit, AutoCAD), softwares
+de informática (Word, Excel e Power Point), softwares de design e
+ilustração (CorelDRAW, Illustrator e Photoshop), e de equipamentos para
+elaboração do levantamento (prancheta, trenas manual e digital,
+lapiseiras, folhas, câmera). De infraestrutura há na UnB como meio de
+pesquisas a Biblioteca Central e a FAU que oferecem a infraestrutura
+necessária para o desenvolvimento das análises, com destaque para o
+Laboratório de Informática para Arquitetura e Urbanismo (LIAU) situado
+nas dependências da faculdade, e para as plataformas digitais de
+compartilhamento de arquivos, como o Integra. 
+
+Em caso de prorrogação da suspensão de atividades presenciais durante a
+vigência do plano de trabalho, as atividades podem ser parte
+desenvolvidas remotamente, e parte, a que necessita de coleta de dados
+in loco, postergada até que haja a possibilidade de seu desenvolvimento.
 
 Bibliografia
 ============
