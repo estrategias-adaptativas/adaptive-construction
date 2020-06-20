@@ -118,6 +118,18 @@ em 7 encontros regionais de estudantes de arquitetura - EREA.
 Cronograma
 ==========
 
-Mês a mês
-
+| Mês | Atividade                                                                                                      |
+| --: | :---------------------------------                                                                             |
+| 1   | Fundamentação e referência teórica                                                                             |
+| 2   | Fundamentação e referência teórica                                                                             |
+| 3   | Levantamento arquitetônico das edificações e execução do modelo BIM.                                           |
+| 4   | Levantamento arquitetônico das edificações e execução do modelo BIM.                                           |
+| 5   | Levantamento arquitetônico das edificações e execução do modelo BIM.                                           |
+| 6   | Levantamento arquitetônico das edificações e execução do modelo BIM. Padronização das representações técnicas. |
+| 7   | Classificação de sistemas construtivos, patologias, estado de conservação e implantação.                       |
+| 8   | Classificação de sistemas construtivos, patologias, estado de conservação e implantação.                       |
+| 9   | Análise urbanística da configuração dos lotes e interpretação da expansão urbana                               |
+| 10  | Análise urbanística da configuração dos lotes e interpretação da expansão urbana                               |
+| 11  | Revisão dos dados e conclusão                                                                                  |
+| 12  | Escrita do relatório final e formatação.                                                                       |
 
