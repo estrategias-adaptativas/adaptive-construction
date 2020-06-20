@@ -2,6 +2,9 @@
 title    : "Arqueologia da casa da fazenda Gama"
 author   : "Ana Caroline dos Santos Paiva"
 date     : 2020-04-13
+nocite   : "@*"
+csl      : "styles/associacao-brasileira-de-normas-tecnicas.csl"
+bibliography: "pibic21-gama.bib"
 ---
 
 Objetivos, problema e justificativa
@@ -79,12 +82,8 @@ Texto com 4000 caracteres.
 Bibliografia
 ============
 
-Preenchimento não obrigatório, caso a bibliografia do plano de trabalho
-do(a) Aluno(a) já esteja inclusa na bibliografia da proposta de pesquisa
-do(a) Orientador(a)
-
-Texto com no máximo 2000 caracteres.
-
+::: {#refs}
+:::
 
 Competências e habilidades
 ==========================
