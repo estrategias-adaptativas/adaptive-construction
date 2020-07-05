@@ -97,7 +97,7 @@ alterações sofridas pela edificação.
 
 O principal recurso para a documentação da casa, contudo, será a
 fotogrametria digital, com uso de software livre como o MicMac
-(<span class="citeproc-not-found" data-reference-id="rupnik:2017micmac2">**???**</span>) e MeshLab, para criação e processamento de nuvem
+(RUPNIK; DAAKIR; PIERROT DESEILLIGNY, [2017](#ref-rupnik:2017micmac2)) e MeshLab, para criação e processamento de nuvem
 de pontos. Para modelagem e introdução de dados semânticos, serão
 utilizados programas de Building Information Modeling (BIM)
 disponíveis no Laboratório de Informática Aplicada à Arquitetura e
@@ -113,7 +113,85 @@ distanciamento social.
 
 ## Bibliografia
 
-<div id="refs">
+<div id="refs" class="references">
+
+<div id="ref-amoruso:2016bim">
+
+AMORUSO, G.; MANTI, A. A BIM for the Identity of Historic Urban Landscapes. Integrated Applications of Survey for the Certosa Di Bologna Architectural Heritage. **Disegnare Con**, v. 9, n. 16, p. 17.1--17.7, jun. 2016. 
+
+</div>
+
+<div id="ref-andriasyan:2020point12">
+
+ANDRIASYAN, M. et al. From Point Cloud Data to Building Information Modelling: An Automatic Parametric Workflow for Heritage. **Remote Sensing**, v. 12, n. 7, p. 1094, 29 mar. 2020. 
+
+</div>
+
+<div id="ref-alvares:1978historia">
+
+ÁLVARES, J. DE M. **História de Santa Luzia: descrição histórica, política e geográfica de Santa Luzia**. Brasília: Independência, 1978. 
+
+</div>
+
+<div id="ref-bertran:2011historia">
+
+BERTRAN, P. **História da terra e do homem no Planalto Central: eco-história do Distrito Federal : do indígena ao colonizador**. Brasília: Editora UnB, 2011. 
+
+</div>
+
+<div id="ref-coelho:2007arquitetura">
+
+COELHO, G. N. **Arquitetura Da Mineração Em Goiás**. Goiânia: Trilhas Urbanas, 2007. 
+
+</div>
+
+<div id="ref-luzianiagoiasbrasil:2012decreto">
+
+**Decreto n.º 499**., 2012. 
+
+</div>
+
+<div id="ref-goiasestadobrasil:2010decreto">
+
+**Decreto n.º 7.096**., 2010. 
+
+</div>
+
+<div id="ref-guerra:consideracoes">
+
+GUERRA, F. P. Considerações sobre patologias e restauração de edifícios. **Téchne**, \[s.d.\]. 
+
+</div>
+
+<div id="ref-lima:2011caminhos">
+
+LIMA, A. N. **Caminhos da integração, fronteiras da política: a formação das províncias de Goiás e Mato Grosso**. text---\[s.l.\] Universidade de São Paulo, 28 jan. 2011.
+
+</div>
+
+<div id="ref-oliveira:2001ponte">
+
+OLIVEIRA, A. M. V. DE. **Uma ponte para o mundo goiano do século XIX: um estudo da casa meia-pontense**. Goiânia: Agência Goiana de Cultura Pedro Ludovico Teixeira, 2001. 
+
+</div>
+
+<div id="ref-rocha:2018inspecao">
+
+ROCHA, V. V. **Inspeção e avaliação da degradação da vida útil em edificações históricas de Luziânia**. Trabalho de Conclusão de Curso (Graduação em Arquitetura e Urbanismo)---Brasília: Universidade de Brasília, 2018.
+
+</div>
+
+<div id="ref-rupnik:2017micmac2">
+
+RUPNIK, E.; DAAKIR, M.; PIERROT DESEILLIGNY, M. MicMac -- a Free, Open-Source Solution for Photogrammetry. **Open Geospatial Data, Software and Standards**, v. 2, n. 1, p. 14, 5 jun. 2017. 
+
+</div>
+
+<div id="ref-vaz:2003casa">
+
+VAZ, M. D. A. C.; ZÁRATE, M. H. V. E. **A casa goiana: documentação arquitetônica**. Goiânia: Editora da UCG, 2003. 
+
+</div>
 
 </div>
 
