@@ -171,39 +171,9 @@ seguintes são relevantes para este plano de trabalho:
 
 <div id="refs" class="references">
 
-<div id="ref-amoruso:2016bim">
-
-AMORUSO, G.; MANTI, A. A BIM for the Identity of Historic Urban Landscapes. Integrated Applications of Survey for the Certosa Di Bologna Architectural Heritage. **Disegnare Con**, v. 9, n. 16, p. 17.1--17.7, jun. 2016. 
-
-</div>
-
 <div id="ref-andriasyan:2020point12">
 
 ANDRIASYAN, M. et al. From Point Cloud Data to Building Information Modelling: An Automatic Parametric Workflow for Heritage. **Remote Sensing**, v. 12, n. 7, p. 1094, 29 mar. 2020. 
-
-</div>
-
-<div id="ref-ara:2016imaging21">
-
-ARA, D.; RASHID, M. Imaging Vernacular Architecture: A Dialogue with Anthropology on Building Process. **Architectural Theory Review**, v. 21, n. 2, p. 172--195, 3 maio 2016. 
-
-</div>
-
-<div id="ref-avrami:2008terra">
-
-AVRAMI, E. C. et al. **Terra literature review: An overview of research in earthen architecture conservation**. Los Angeles, CA: Getty Conservation Institute, 2008. 
-
-</div>
-
-<div id="ref-azevedo:1910annuario">
-
-AZEVEDO, F. F. DOS S. **Annuario historico, geographico e descriptivo do Estado de Goyaz**. Uberaba : Araguari : Goiás: Livraria Seculo XX : Aredio de Souza, 1910. 
-
-</div>
-
-<div id="ref-banta:2006development">
-
-BANTA, J. V.; DIEBOLT, K.; GILBERT, M. The Development and Use of a Tablet PC Annotation System for Conditions Surveys. **APT Bulletin**, v. 37, n. 2/3, p. 39--45, 1 jan. 2006. 
 
 </div>
 
@@ -237,27 +207,9 @@ CRUZ, H. **Patologia, Avaliação e Conservação de Estruturas Em Madeira**. **
 
 </div>
 
-<div id="ref-fonseca:2007arquitectura">
-
-FONSECA, I. **Arquitectura de Terra Em Avis**. 1. ed. Lisboa: Argumentum, 2007. 
-
-</div>
-
 <div id="ref-gonzaga:2006madeira">
 
 GONZAGA, A. L. **Madeira: Uso e Conservação**. Brasília: IPHAN / Monumenta, 2006. 
-
-</div>
-
-<div id="ref-lawrence:1983interpretation14">
-
-LAWRENCE, R. J. The Interpretation of Vernacular Architecture. **Vernacular Architecture**, v. 14, n. 1, p. 19--28, 1 jun. 1983. 
-
-</div>
-
-<div id="ref-mehaffy:2007sustainable">
-
-MEHAFFY, M. W. **Sustainable Building and Traditional Morphology: Implications of Evolving Research in Biophilia and Evidence-Based Design**. Oswego, Ore.: Sustasis Foundation, 2007. 
 
 </div>
 
@@ -267,21 +219,9 @@ MORESCHI, J. C. **Biodegradação e Preservação Da Madeira**. Curitiba: UFPR, 
 
 </div>
 
-<div id="ref-moutinho:1995arquitectura">
-
-MOUTINHO, M. **Arquitectura popular portuguesa**. Lisboa: Estampa, 1995. 
-
-</div>
-
 <div id="ref-murphy:2009historic">
 
 MURPHY, M.; MCGOVERN, E.; PAVIA, S. Historic Building Information Modelling (HBIM). **Structural Survey**, v. 27, n. 4, p. 311--327, 27 ago. 2009. 
-
-</div>
-
-<div id="ref-noble:2013vernacular">
-
-NOBLE, A. **Vernacular Buildings: A Global Survey**. \[s.l.\] I.B.Tauris, 2013. 
 
 </div>
 
@@ -294,12 +234,6 @@ SILVA, L. L. C. **Arquitetura civil portuguesa : análise das características d
 <div id="ref-skarmeas:2010habs">
 
 SKARMEAS, G. C. From HABS to BIM: Personal Experiences, Thoughts, and Reflections. **APT Bulletin**, v. 41, n. 4, p. 47--53, 1 jan. 2010. 
-
-</div>
-
-<div id="ref-spallone:2016bim">
-
-SPALLONE, R.; PIANO, A.; PIANO, S. BIM e Beni Architettonici: Analisi e Rappresentazione Multiscalare e Multidimensionale Di Un Insediamento Storico. Il Caso Studio Di Montemagno, Borgo Nuovo Piemontese. **Disegnare Con**, v. 16, n. 1, p. 13.1--13.13, 2016. 
 
 </div>
 
