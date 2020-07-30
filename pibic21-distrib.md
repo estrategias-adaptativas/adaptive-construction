@@ -171,7 +171,7 @@ OLIVEIRA, A. M. V. DE. **A casa como universo de fronteira**. Tese de Doutorado-
 
 <div id="ref-reisfilho:1969lote">
 
-REIS FILHO, N. G. **Lote urbano e a arquitetura no brasil**. SÃ£o Paulo: FAU/USP, 1969. 
+REIS FILHO, N. G. **Lote urbano e a arquitetura no Brasil**. SÃ£o Paulo: FAU/USP, 1969. 
 
 </div>
 

@@ -328,9 +328,9 @@ CATALDI, G. (ED.). **Attualità del primitivo e del tradizionale in architettura
 
 </div>
 
-<div id="ref-cogdell:2019living">
+<div id="ref-cogdell:2018living">
 
-COGDELL, C. **Toward a Living Architecture?: Complexism and Biology in Generative Design**. \[s.l.\] University of Minnesota Press, 2019. 
+COGDELL, C. **Toward a Living Architecture?: Complexism and Biology in Generative Design**. \[s.l.\] University of Minnesota Press, 2018. 
 
 </div>
 
