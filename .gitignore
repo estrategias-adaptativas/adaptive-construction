@@ -13,11 +13,14 @@ _book
 # For when you want to keep downloaded or received files next to your
 # repo without committing them (bc they're usually binaries).
 _share
-fig
+figures
+styles
 
 # Jekyll {{{1
 Gemfile.lock
 _site/
+Gemfile.lock
+styles
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
